@@ -7,30 +7,17 @@ EGBOWON-BOLA-KINGSLEY
 I'm a Data Analyst passionate about transforming data into meaningful insights and supporting data-driven decision making, Data Scientist In View.
 
 ## 🛠 Tools & Skills
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Microsoft Powerpoint](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft word](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+Core Skills: 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening, 🔀 Adaptability
 
-## 📊 Data Analytics Projects
-## E-Commerce Revenue Performance Dashboard (Excel)
-## Medical Equipment Procurement Cost Analysis (Excel)
-## Healthcare Insurance Cost Analysis Dashboard
-## Superstore Revenue Performance Dashboard
-## Travel Insurance Risk Analysis Dashboard
-
-## 📊 POWER BI ANALYTICS PROJECTS
-## Developed interactive dashboards across multiple business domains:
-## •	Airplane Crashes & Safety Analysis
-## •	Retail Sales Performance Dashboard
-## •	Supply Chain Analytics Dashboard
-## •	Global Debt Analysis Report
-## •	Car Sales Business Intelligence Dashboard
-## •	Student Mental Health Data Analysis
-## •	Data Science Job Salary Market Analysis
-## •	Restaurant Operations Data Analysis
-## •	New York Stock Exchange Data Dashboard
-## •	Online Retail Sales Analysis (TATA Dataset)
+## 📊Projects
+Here you'll find hands-on projects using both real-world and practical dataset:
+Microsoft Excel Analysis
+Power BI Analysis
 
 ## 📫 Contact Me
 - Email: egbowonbolakinsley@gmail.com
