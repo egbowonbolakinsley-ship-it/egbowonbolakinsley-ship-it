@@ -16,8 +16,9 @@
 Here you'll find hands-on projects using both real-world and practical dataset:
 Microsoft Excel Analysis
 Power BI Analysis
-
+## 📚 Currently Learning
+Data Science
 ## 📫 Contact Me
-- Email: egbowonbolakinsley@gmail.com
-- LinkedIn: www.linkedin.com/in/egbowon-kingsley-2ab91937b
+Email: egbowonbolakinsley@gmail.com
+LinkedIn: www.linkedin.com/in/egbowon-kingsley-2ab91937b
 
