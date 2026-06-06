@@ -9,8 +9,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Microsoft Powerpoint](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft word](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 **Core Skills:** 🧹 Data Cleaning, 🔄 Data transformation,🔍 Exploratory Data Analysis (EDA), 📊 Dashboard Development, 📖 Data Storytelling, 🤔 Critical Thinking, 💬 Effective Communication, 🤝 Team work, 👂 Active listening, 🔀 Adaptability
 
